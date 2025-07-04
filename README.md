@@ -1,2 +1,3 @@
 # wp-grumpy-analyser
-A wordpress plugin for an ai analyser
+An idea whose time will come
+
